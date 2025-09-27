@@ -1,3 +1,4 @@
+/*
 document.addEventListener("DOMContentLoaded", () => {
     
     const header = document.querySelector("header");
@@ -15,3 +16,4 @@ document.addEventListener("DOMContentLoaded", () => {
             footer.innerHTML = data;
         });
 });
+*/
