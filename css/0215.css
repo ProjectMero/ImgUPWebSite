@@ -2,11 +2,11 @@ nav {
     background: #ffffff;
     padding: 12px 0;
 }
-        .nav-links {
-            display: flex;
-            justify-content: center;
-            gap: 32px;
-        }
+.nav-links {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
         .nav-links a {
             color: #fff;
             text-decoration: none;
