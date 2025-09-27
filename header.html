@@ -1,7 +1,38 @@
-<nav>
-    <div class="nav-links">
-        <a href="./index">Home</a>
-        <a href="./news">News</a>
-        <a href="./download">Download</a>
-    </div>
-</nav>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        nav {
+            background: #222;
+            padding: 12px 0;
+        }
+        .nav-links {
+            display: flex;
+            justify-content: center;
+            gap: 32px;
+        }
+        .nav-links a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1em;
+            transition: color 0.2s;
+        }
+        .nav-links a:hover {
+            color: #4fc3f7;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        <div class="nav-links">
+            <a href="./index">Home</a>
+            <a href="./news">News</a>
+            <a href="./download">Download</a>
+        </div>
+    </nav>
+</body>
+</html>
