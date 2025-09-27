@@ -14,6 +14,6 @@ nav {
     font-size: 1.1em;
     transition: color 0.2s;
 }
-        .nav-links a:hover {
-            color: #4fc3f7;
-        }
+.nav-links a:hover {
+    color: #4fc3f7;
+}
